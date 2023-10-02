@@ -76,7 +76,7 @@ Variabel `lastName` dideklarasikan sebagai `final`, sehingga nilainya tidak dapa
 
 <br>
 
-### Tugas 4
+### Tugas 4 (Pertama)
 
 <img src="assets/4.png" width="40%">
 
